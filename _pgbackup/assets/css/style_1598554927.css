@@ -305,7 +305,7 @@ h6 {
 }
 
 .get-started-btn:hover {
-    background: #ff0066;
+    background: #fd3800;
     color: #fff;
     border-color: #ff0066;
 }
@@ -1407,7 +1407,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-    background: #ee0055;
+    background: #ff0066;
     border: 0;
     padding: 10px 24px;
     color: #fff;
@@ -1416,7 +1416,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-    background: #ff0066;
+    background: #ff5e31;
 }
 
 @-webkit-keyframes animate-loading {
