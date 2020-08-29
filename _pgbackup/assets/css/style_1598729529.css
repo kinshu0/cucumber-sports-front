@@ -639,6 +639,7 @@ section {
 }
 
 .about .content h3 {
+    font-weight: 700;
     font-size: 24px;
     color: #263d4d;
 }

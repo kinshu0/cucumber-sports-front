@@ -562,6 +562,7 @@ section {
     letter-spacing: 2px;
     text-transform: uppercase;
     color: #5c8eb0;
+    font-family: "Poppins", sans-serif;
 }
 
 .section-title h2::after {
@@ -579,6 +580,7 @@ section {
     font-size: 36px;
     font-weight: 700;
     text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
     color: #263d4d;
 }
 
@@ -639,6 +641,7 @@ section {
 }
 
 .about .content h3 {
+    font-weight: 700;
     font-size: 24px;
     color: #263d4d;
 }
